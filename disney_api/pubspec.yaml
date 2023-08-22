@@ -7,8 +7,13 @@ environment:
   sdk: '>=3.0.6 <4.0.0'
 
 dependencies:
+  cached_network_image: ^3.2.3
   flutter:
     sdk: flutter
+  http: ^1.1.0
+  intl: ^0.18.1
+  url_launcher: ^6.1.12
+  zoom_tap_animation: ^1.1.0
 
 dev_dependencies:
   flutter_test:
